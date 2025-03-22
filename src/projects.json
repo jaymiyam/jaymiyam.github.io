@@ -6,7 +6,7 @@
     "tech": ["vuejs", "tailwindcss", "typescript"],
     "demoLink": "https://watchy-app-jaymi.netlify.app/",
     "repoLink": "https://github.com/jaymiyam/watchy-movie-and-show-tracking-board",
-    "imagePath": "/thumbnails/portfolio-thumbnail-Watchy-new.png"
+    "imagePath": "./thumbnails/portfolio-thumbnail-Watchy-new.png"
   },
   {
     "id": 2,
@@ -15,7 +15,7 @@
     "tech": ["nuxtjs", "vuejs", "tailwindcss"],
     "demoLink": "https://weather-dashboard-jaymi.netlify.app/",
     "repoLink": "https://github.com/jaymiyam/weather-dashboard",
-    "imagePath": "/thumbnails/portfolio-thumbnail-WeatherDashboard-new.png"
+    "imagePath": "./thumbnails/portfolio-thumbnail-WeatherDashboard-new.png"
   },
   {
     "id": 3,
@@ -24,7 +24,7 @@
     "tech": ["css", "gsap", "javascript"],
     "demoLink": "https://jaymiyam.github.io/mythology-studio-landing-page/",
     "repoLink": "https://github.com/jaymiyam/mythology-studio-landing-page",
-    "imagePath": "/thumbnails/portfolio-thumbnail-MythologyStudio-new.png"
+    "imagePath": "./thumbnails/portfolio-thumbnail-MythologyStudio-new.png"
   },
   {
     "id": 4,
@@ -33,6 +33,6 @@
     "tech": ["css", "javascript"],
     "demoLink": "https://jaymiyam.github.io/frontend-mentor-scoot-multi-page-website/",
     "repoLink": "https://github.com/jaymiyam/frontend-mentor-scoot-multi-page-website",
-    "imagePath": "/thumbnails/portfolio-thumbnail-Scoot-new.png"
+    "imagePath": "./thumbnails/portfolio-thumbnail-Scoot-new.png"
   }
 ]
