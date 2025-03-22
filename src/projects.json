@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "watchy",
+    "description": "A Trello-style board for organising movies & shows. Features monthly & weekly view, data filtering & dark mode toggle. Saves data in local storage for a backend-free experience. Hosted on Netlify.",
+    "tech": ["vuejs", "tailwindcss", "typescript"],
+    "demoLink": "https://watchy-app-jaymi.netlify.app/",
+    "repoLink": "https://github.com/jaymiyam/watchy-movie-and-show-tracking-board",
+    "imagePath": "/thumbnails/portfolio-thumbnail-Watchy-new.png"
+  },
+  {
+    "id": 2,
+    "name": "weather",
+    "description": "A simple, responsive weather dashboard built with Nuxt.js, featuring real-time weather updates, hourly temperature graph, a weekly forecast, and a dark mode toggle. Weather data fetched from OpenWeather API.",
+    "tech": ["nuxtjs", "vuejs", "tailwindcss"],
+    "demoLink": "https://weather-dashboard-jaymi.netlify.app/",
+    "repoLink": "https://github.com/jaymiyam/weather-dashboard",
+    "imagePath": "/thumbnails/portfolio-thumbnail-WeatherDashboard-new.png"
+  },
+  {
+    "id": 3,
+    "name": "mythology",
+    "description": "Landing page for fictional motion graphics studio Mythology. Built with vanilla Javascript, GSAP and Lenis Scroll. Designed with pop-up players, parallax effect and scroll triggers.",
+    "tech": ["css", "gsap", "javascript"],
+    "demoLink": "https://jaymiyam.github.io/mythology-studio-landing-page/",
+    "repoLink": "https://github.com/jaymiyam/mythology-studio-landing-page",
+    "imagePath": "/thumbnails/portfolio-thumbnail-MythologyStudio-new.png"
+  },
+  {
+    "id": 4,
+    "name": "scoot",
+    "description": "Multi-page website for fictional ride sharing brand Scoot. Initial design & style guide from Frontend Mentor. Created with HTML5, CSS3 and Vanilla Javascript, static hosting on GitHub Pages.",
+    "tech": ["css", "javascript"],
+    "demoLink": "https://jaymiyam.github.io/frontend-mentor-scoot-multi-page-website/",
+    "repoLink": "https://github.com/jaymiyam/frontend-mentor-scoot-multi-page-website",
+    "imagePath": "/thumbnails/portfolio-thumbnail-Scoot-new.png"
+  }
+]

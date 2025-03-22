@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&family=Mulish:ital,wght@0,200..1000;1,200..1000&display=swap");
+@import "tailwindcss";
+
+@theme {
+  --color-lightBeige: #fcfbf9;
+  --color-orangeGold: #ffb033;
+  --color-mossGreen: #3e6b3c;
+  --color-vermillion: #d34b4a;
+  --color-deepNavy: #1e1e1e;
+
+  --font-mulish: "Mulish", "sans-serif";
+  --font-jetbrains: "JetBrains Mono", "monospace";
+}
