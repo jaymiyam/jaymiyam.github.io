@@ -64,7 +64,7 @@
           </ul>
         </div>
         <div>
-          <h3 class="mb-4">version control</h3>
+          <h3 class="mb-4">utilities</h3>
           <ul class="grid grid-flow-row gap-2">
             <li
               class="hover:text-orangeGold flex items-center gap-2 transition hover:-translate-y-0.5"
@@ -78,11 +78,6 @@
               <Icon icon="devicon:github" width="36" height="36" />
               <span class="font-bold">GitHub</span>
             </li>
-          </ul>
-        </div>
-        <div>
-          <h3 class="mb-4">testing</h3>
-          <ul class="grid grid-flow-row gap-2">
             <li
               class="hover:text-orangeGold flex items-center gap-2 transition hover:-translate-y-0.5"
             >
