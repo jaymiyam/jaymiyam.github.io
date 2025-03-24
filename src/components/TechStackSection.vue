@@ -10,7 +10,7 @@
   >
     <section class="pt-20">
       <h2 class="mb-8 text-3xl font-extrabold">techStack</h2>
-      <div class="grid grid-cols-2 gap-x-2 gap-y-8 sm:grid-cols-4 sm:gap-y-0">
+      <div class="grid grid-cols-2 gap-x-2 gap-y-8 sm:grid-cols-3 sm:gap-y-0">
         <div>
           <h3 class="mb-4">languages</h3>
           <ul class="grid grid-flow-row gap-2">
@@ -64,7 +64,7 @@
           </ul>
         </div>
         <div>
-          <h3 class="mb-4">version control</h3>
+          <h3 class="mb-4">utilities</h3>
           <ul class="grid grid-flow-row gap-2">
             <li
               class="hover:text-orangeGold flex items-center gap-2 transition hover:-translate-y-0.5"
@@ -78,11 +78,6 @@
               <Icon icon="devicon:github" width="36" height="36" />
               <span class="font-bold">GitHub</span>
             </li>
-          </ul>
-        </div>
-        <div>
-          <h3 class="mb-4">testing</h3>
-          <ul class="grid grid-flow-row gap-2">
             <li
               class="hover:text-orangeGold flex items-center gap-2 transition hover:-translate-y-0.5"
             >
