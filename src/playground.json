@@ -1,0 +1,18 @@
+[
+  {
+    "id": 21,
+    "name": "badminton scoreboard",
+    "description": "A web app for counting scores for singles or doubles badminton matches according to the BWF official rules. Built with Vue.",
+    "demoLink": "https://jaymiyam.com/badminton-scoreboard/",
+    "repoLink": "https://github.com/jaymiyam/badminton-scoreboard",
+    "imagePath": "thumbnails/portfolio-thumbnail-badmintonScoreboard.png"
+  },
+  {
+    "id": 22,
+    "name": "crack the code game",
+    "description": "A number guessing game. This was a mini game that I loved to play on my electronic dictionary 20 years ago. Built with Vanilla JS.",
+    "demoLink": "https://jaymiyam.com/crack-the-code-game/",
+    "repoLink": "https://github.com/jaymiyam/crack-the-code-game",
+    "imagePath": "thumbnails/portfolio-thumbnail-crackTheCodeGame.png"
+  }
+]

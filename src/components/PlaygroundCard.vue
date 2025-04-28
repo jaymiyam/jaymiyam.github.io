@@ -1,6 +1,6 @@
 <template>
   <div
-    class="mb-20 grid items-center gap-8 opacity-90 transition duration-300 hover:-translate-y-1.5 hover:opacity-100 sm:grid-cols-2 sm:gap-12"
+    class="mb-20 flex flex-col gap-4 opacity-90 transition duration-300 hover:-translate-y-1.5 hover:opacity-100"
   >
     <div class="overflow-hidden rounded-md">
       <img
@@ -9,7 +9,7 @@
       />
     </div>
     <div>
-      <div class="mb-4 flex items-center justify-between">
+      <div class="mb-4 flex flex-col gap-2">
         <h3 class="text-2xl font-extrabold">{{ project.name }}</h3>
         <div class="flex gap-4">
           <a
@@ -30,15 +30,6 @@
           </a>
         </div>
       </div>
-      <div class="mb-8 flex items-center gap-2">
-        <span
-          v-for="(skill, index) in project.tech"
-          :key="index"
-          class="rounded-md border px-2 text-sm"
-          :class="tagColors[skill]"
-          >{{ skill }}</span
-        >
-      </div>
       <p>
         {{ project.description }}
       </p>
@@ -55,16 +46,6 @@ const { project } = defineProps({
     required: true,
   },
 });
-
-const tagColors = {
-  vuejs: "text-mossGreen",
-  nuxtjs: "text-mossGreen",
-  gsap: "text-orangeGold",
-  css: "text-orangeGold",
-  tailwindcss: "text-orangeGold",
-  typescript: "text-vermillion",
-  javascript: "text-vermillion",
-};
 </script>
 
 <style lang="scss" scoped></style>

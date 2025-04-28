@@ -24,7 +24,7 @@
         <p>
           currently learning:
           <span class="text-orangeGold font-bold">TypeScript</span>,
-          <span class="text-orangeGold font-bold">D3.js</span>
+          <span class="text-orangeGold font-bold">React</span>
         </p>
       </div>
       <div>
