@@ -27,6 +27,15 @@
     "imagePath": "thumbnails/portfolio-thumbnail-WeatherDashboard-new.png"
   },
   {
+    "id": 14,
+    "name": "frontend mentor collection",
+    "description": "This is a collection page showcasing my work of completing front-end coding challenges from Frontend Mentor.",
+    "tech": ["css", "javascript"],
+    "demoLink": "https://github.com/jaymiyam/frontend-mentor-collection/",
+    "repoLink": "https://jaymiyam.com/frontend-mentor-collection/",
+    "imagePath": "thumbnails/portfolio-thumbnail-frontendMentorCollection.png"
+  },
+  {
     "id": 13,
     "name": "mythology",
     "description": "Landing page for fictional motion graphics studio Mythology. Built with vanilla Javascript, GSAP and Lenis Scroll. Designed with pop-up players, parallax effect and scroll triggers.",
@@ -34,14 +43,5 @@
     "demoLink": "https://jaymiyam.github.io/mythology-studio-landing-page/",
     "repoLink": "https://github.com/jaymiyam/mythology-studio-landing-page",
     "imagePath": "thumbnails/portfolio-thumbnail-MythologyStudio-new.png"
-  },
-  {
-    "id": 14,
-    "name": "scoot",
-    "description": "Multi-page website for fictional ride sharing brand Scoot. Initial design & style guide from Frontend Mentor. Created with HTML5, CSS3 and Vanilla Javascript, static hosting on GitHub Pages.",
-    "tech": ["css", "javascript"],
-    "demoLink": "https://jaymiyam.github.io/frontend-mentor-scoot-multi-page-website/",
-    "repoLink": "https://github.com/jaymiyam/frontend-mentor-scoot-multi-page-website",
-    "imagePath": "thumbnails/portfolio-thumbnail-Scoot-new.png"
   }
 ]
