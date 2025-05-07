@@ -52,14 +52,14 @@
             <li
               class="hover:text-orangeGold flex items-center gap-2 transition hover:-translate-y-0.5"
             >
-              <Icon icon="devicon:tailwindcss" width="36" height="36" />
-              <span class="font-bold">TailwindCSS</span>
+              <Icon icon="material-icon-theme:react" width="36" height="36" />
+              <span class="font-bold">React</span>
             </li>
             <li
               class="hover:text-orangeGold flex items-center gap-2 transition hover:-translate-y-0.5"
             >
-              <Icon icon="logos:greensock-icon" width="36" height="36" />
-              <span class="font-bold">GSAP</span>
+              <Icon icon="devicon:tailwindcss" width="36" height="36" />
+              <span class="font-bold">TailwindCSS</span>
             </li>
           </ul>
         </div>
@@ -83,6 +83,12 @@
             >
               <Icon icon="devicon:vitest" width="36" height="36" />
               <span class="font-bold">Vitest</span>
+            </li>
+            <li
+              class="hover:text-orangeGold flex items-center gap-2 transition hover:-translate-y-0.5"
+            >
+              <Icon icon="logos:greensock-icon" width="36" height="36" />
+              <span class="font-bold">GSAP</span>
             </li>
           </ul>
         </div>

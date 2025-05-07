@@ -57,6 +57,7 @@ const { project } = defineProps({
 });
 
 const tagColors = {
+  reactjs: "text-sky-500",
   vuejs: "text-mossGreen",
   nuxtjs: "text-mossGreen",
   gsap: "text-orangeGold",
