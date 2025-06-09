@@ -1,0 +1,51 @@
+[
+  {
+    "id": 21,
+    "name": "webpages",
+    "description": "A collection of website & landing page designs. Business work & concept designs included.",
+    "imagePath": "thumbnails/portfolio-thumbnail-webpages.png",
+    "galleryImages": [
+      "gallery/gallery-webpage-DiceBeans.webp",
+      "gallery/gallery-webpage-TheArtisansCoup.webp",
+      "gallery/gallery-webpage-Kerf-Chinese.webp",
+      "gallery/gallery-webpage-FocusHiker.webp",
+      "gallery/gallery-webpage-CashReader.webp"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "online ads",
+    "description": "Graphic works for Google ads and social media appearances.",
+    "imagePath": "thumbnails/portfolio-thumbnail-onlineAds.png",
+    "galleryImages": [
+      "gallery/gallery-onlineAds-drive.png",
+      "gallery/gallery-onlineAds-gravityM1sns.png",
+      "gallery/gallery-onlineAds-gravityM2sns.png",
+      "gallery/gallery-onlineAds-GWsales.jpg",
+      "gallery/gallery-onlineAds-JPR.jpg"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "product listings",
+    "description": "Online product listing images design for e-commerce platforms such as Amazon.",
+    "imagePath": "thumbnails/portfolio-thumbnail-productListings.png",
+    "galleryImages": [
+      "gallery/gallery-productListing-avatarBanshee.jpg",
+      "gallery/gallery-productListing-avatarBow.jpg",
+      "gallery/gallery-productListing-stikbot.jpg",
+      "gallery/gallery-productListing-hyperStrike.jpg",
+      "gallery/gallery-productListing-xmasGiftGuide.jpg"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "print materials",
+    "description": "Designs for printed works of various purposes.",
+    "imagePath": "thumbnails/portfolio-thumbnail-print.png",
+    "galleryImages": [
+      "gallery/gallery-print-bioToilet.jpg",
+      "gallery/gallery-print-mbr.jpg"
+    ]
+  }
+]

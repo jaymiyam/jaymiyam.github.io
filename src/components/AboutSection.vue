@@ -15,16 +15,16 @@
         <h1
           class="mb-4 text-4xl font-extrabold tracking-tight sm:mb-8 md:text-5xl"
         >
-          Hi!I’m Jaymi, a front-end developer.
+          Hi!I’m Jaymi, a designer & developer.
         </h1>
         <p class="mb-8">
-          this website is a curated collection of my web design and development
+          This website is a curated collection of my design and development
           projects.
         </p>
         <p>
           currently learning:
           <span class="text-orangeGold font-bold">TypeScript</span>,
-          <span class="text-orangeGold font-bold">React</span>
+          <span class="text-orangeGold font-bold">NuxtJS</span>
         </p>
       </div>
       <div>
