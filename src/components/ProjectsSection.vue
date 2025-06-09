@@ -43,7 +43,9 @@
           :key="project.id"
           :project="project"
         />
+        <PlaygroundSection />
       </div>
+
       <ProjectModal
         v-if="selectedGraphicProject"
         :project="selectedGraphicProject"
@@ -55,6 +57,7 @@
 
 <script setup>
 import { ref } from "vue";
+import PlaygroundSection from "./PlaygroundSection.vue";
 import DevProjects from "../developmentProjects.json";
 import GraphicsProjects from "../graphicsProjects.json";
 import ProjectCard from "./ProjectCard.vue";

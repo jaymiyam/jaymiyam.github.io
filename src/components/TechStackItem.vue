@@ -1,6 +1,6 @@
 <template>
   <li
-    class="hover:text-orangeGold flex items-center gap-2 transition hover:-translate-y-0.5"
+    class="hover:text-orangeGold flex items-center gap-2 whitespace-nowrap transition hover:-translate-y-0.5"
   >
     <Icon :icon="icon" width="36" height="36" />
     <span class="font-bold">{{ text }}</span>
