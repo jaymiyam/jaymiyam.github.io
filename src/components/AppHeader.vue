@@ -33,6 +33,18 @@
           >
             <a
               class="flex gap-1"
+              href="https://www.behance.net/jaymiyam"
+              target="_blank"
+            >
+              <span>behance</span>
+              <Icon icon="mingcute:behance-line" width="24" height="24" />
+            </a>
+          </li>
+          <li
+            class="hover:text-mossGreen cursor-pointer font-bold transition hover:-translate-y-0.5"
+          >
+            <a
+              class="flex gap-1"
               href="https://www.linkedin.com/in/jaymi-yam/"
               target="_blank"
             >

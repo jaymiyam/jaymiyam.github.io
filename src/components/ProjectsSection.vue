@@ -32,7 +32,7 @@
           <a
             class="hover:text-orangeGold font-semibold underline transition"
             href="https://www.behance.net/jaymiyam"
-            target="blank"
+            target="_blank"
             >Behance Portfolio</a
           >
           for more graphics work!
