@@ -26,16 +26,25 @@
           design
         </button>
       </h2>
-      <div
-        v-if="showGraphicsProjects"
-        class="grid gap-8 sm:grid-cols-2 sm:gap-12"
-      >
-        <GraphicsProjectCard
-          v-for="project in GraphicsProjects"
-          :key="project.id"
-          :project="project"
-          @click="openModal(project)"
-        />
+      <div v-if="showGraphicsProjects">
+        <p class="mb-8">
+          Please check out my
+          <a
+            class="hover:text-orangeGold font-semibold underline transition"
+            href="https://www.behance.net/jaymiyam"
+            target="blank"
+            >Behance Portfolio</a
+          >
+          for more graphics work!
+        </p>
+        <div class="grid gap-8 sm:grid-cols-2 sm:gap-12">
+          <GraphicsProjectCard
+            v-for="project in GraphicsProjects"
+            :key="project.id"
+            :project="project"
+            @click="openModal(project)"
+          />
+        </div>
       </div>
       <div v-else>
         <ProjectCard
