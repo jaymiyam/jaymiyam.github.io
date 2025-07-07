@@ -27,6 +27,19 @@
         </button>
       </h2>
       <div v-if="showGraphicsProjects">
+        <div class="grid gap-8 sm:grid-cols-2 sm:gap-12">
+          <!-- <GraphicsProjectCard
+            v-for="project in GraphicsProjects"
+            :key="project.id"
+            :project="project"
+            @click="openModal(project)"
+          /> -->
+          <WebflowProjectCard
+            v-for="project in WebflowProjects"
+            :key="project.id"
+            :project="project"
+          />
+        </div>
         <p class="mb-8">
           Please check out my
           <a
@@ -37,14 +50,6 @@
           >
           for more graphics work!
         </p>
-        <div class="grid gap-8 sm:grid-cols-2 sm:gap-12">
-          <GraphicsProjectCard
-            v-for="project in GraphicsProjects"
-            :key="project.id"
-            :project="project"
-            @click="openModal(project)"
-          />
-        </div>
       </div>
       <div v-else>
         <ProjectCard
@@ -68,15 +73,17 @@
 import { ref } from "vue";
 import PlaygroundSection from "./PlaygroundSection.vue";
 import DevProjects from "../developmentProjects.json";
-import GraphicsProjects from "../graphicsProjects.json";
 import ProjectCard from "./ProjectCard.vue";
-import GraphicsProjectCard from "./GraphicsProjectCard.vue";
-import ProjectModal from "./ProjectModal.vue";
+import WebflowProjects from "../webflowProjects.json";
+import WebflowProjectCard from "./WebflowProjectCard.vue";
+// import GraphicsProjects from "../graphicsProjects.json";
+// import GraphicsProjectCard from "./GraphicsProjectCard.vue";
+// import ProjectModal from "./ProjectModal.vue";
 
 const showGraphicsProjects = ref(false);
-const selectedGraphicProject = ref(null);
+// const selectedGraphicProject = ref(null);
 
-function openModal(project) {
-  selectedGraphicProject.value = project;
-}
+// function openModal(project) {
+//   selectedGraphicProject.value = project;
+// }
 </script>

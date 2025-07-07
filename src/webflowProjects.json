@@ -1,0 +1,23 @@
+[
+  {
+    "id": 31,
+    "name": "The Artisan's Coup",
+    "description": "Full website design for a fictional escape room brand with Bookeo integration. Built in Webflow with CMS for escape rooms showcasing and GSAP interactions. This is a conceptual project.",
+    "imagePath": "thumbnails/portfolio-thumbnail-TheArtisansCoup.webp",
+    "demoLink": "https://the-artisans-coup.webflow.io/"
+  },
+  {
+    "id": 32,
+    "name": "Kerf Funiture (Chinese)",
+    "description": "Full website design for fictional solid wood furniture brand KERF. Image-heavy design with video hero sections, built in Webflow with CMS for project showcasing. This is a conceptual project.",
+    "imagePath": "thumbnails/portfolio-thumbnail-Kerf.webp",
+    "demoLink": "https://kerf.webflow.io/"
+  },
+  {
+    "id": 33,
+    "name": "Cash Reader",
+    "description": "Full website redesign for Cash Reader - a money reading app for blind and visually impaired. Designed with accessibility first in mind, clean layout with larger text, HTML semantic tags, proper naming and labelling for screen readers. This is a conceptual project with content referenced from the actual website.",
+    "imagePath": "thumbnails/portfolio-thumbnail-CashReader.webp",
+    "demoLink": "https://cash-reader.webflow.io/"
+  }
+]
