@@ -59,12 +59,6 @@
         />
         <PlaygroundSection />
       </div>
-
-      <ProjectModal
-        v-if="selectedGraphicProject"
-        :project="selectedGraphicProject"
-        @close="selectedGraphicProject = null"
-      />
     </section>
   </Transition>
 </template>

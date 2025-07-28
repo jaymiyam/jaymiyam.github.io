@@ -18,7 +18,7 @@
           Hi!I’m Jaymi, a designer & developer.
         </h1>
         <p class="mb-8 text-balance">
-          This website is a curated collection of my design and development
+          I design and code. This website is a curated collection of my
           projects.
         </p>
         <p class="text-balance">
