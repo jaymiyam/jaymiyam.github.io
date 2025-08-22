@@ -9,15 +9,6 @@
     "imagePath": "thumbnails/portfolio-thumbnail-SlateMovieApp.png"
   },
   {
-    "id": 16,
-    "name": "mythology 2.0",
-    "description": "A landing page for a fictional studio, created with React, TailwindCSS & GSAP. This is an updated from the original vanilla JS project.",
-    "tech": ["reactjs", "tailwindcss", "gsap"],
-    "demoLink": "https://jaymiyam.com/mythology-studio-remastered/",
-    "repoLink": "https://github.com/jaymiyam/mythology-studio-remastered",
-    "imagePath": "thumbnails/portfolio-thumbnail-mythology-studio-remastered.png"
-  },
-  {
     "id": 11,
     "name": "watchy",
     "description": "A Trello-style board for organising movies & shows. Features monthly & weekly view, data filtering & dark mode toggle. Saves data in local storage for a backend-free experience. Hosted on Netlify.",
@@ -52,5 +43,14 @@
     "demoLink": "https://jaymiyam.github.io/mythology-studio-landing-page/",
     "repoLink": "https://github.com/jaymiyam/mythology-studio-landing-page",
     "imagePath": "thumbnails/portfolio-thumbnail-MythologyStudio-new.png"
+  },
+  {
+    "id": 16,
+    "name": "mythology 2.0",
+    "description": "A landing page for a fictional studio, created with React, TailwindCSS & GSAP. This is an updated from the original vanilla JS project.",
+    "tech": ["reactjs", "tailwindcss", "gsap"],
+    "demoLink": "https://jaymiyam.com/mythology-studio-remastered/",
+    "repoLink": "https://github.com/jaymiyam/mythology-studio-remastered",
+    "imagePath": "thumbnails/portfolio-thumbnail-mythology-studio-remastered.png"
   }
 ]

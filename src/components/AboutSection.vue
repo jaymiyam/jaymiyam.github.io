@@ -24,7 +24,7 @@
         <p class="text-balance">
           currently learning:
           <span class="text-orangeGold font-bold">TypeScript</span>,
-          <span class="text-orangeGold font-bold">NuxtJS</span>
+          <span class="text-orangeGold font-bold">Next.JS</span>
         </p>
       </div>
       <div>
