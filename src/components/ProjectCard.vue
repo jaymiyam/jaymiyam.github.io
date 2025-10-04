@@ -65,6 +65,7 @@ const tagColors = {
   tailwindcss: "text-orangeGold",
   typescript: "text-vermillion",
   javascript: "text-vermillion",
+  threejs: "text-slate-600",
 };
 </script>
 

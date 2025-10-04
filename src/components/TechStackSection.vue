@@ -23,8 +23,8 @@
         <div>
           <h3 class="mb-4">frameworks</h3>
           <ul class="grid grid-flow-row gap-2">
-            <TechStackItem icon="devicon:vuejs" text="VueJS" />
             <TechStackItem icon="material-icon-theme:react" text="React" />
+            <TechStackItem icon="devicon:vuejs" text="VueJS" />
             <TechStackItem icon="devicon:tailwindcss" text="TailwindCSS" />
             <TechStackItem icon="logos:greensock-icon" text="GSAP" />
           </ul>

@@ -1,5 +1,23 @@
 [
   {
+    "id": 17,
+    "name": "nimbus",
+    "description": "A 3D animated fictional landing page for the Nimbus VAPOR75 keyboard, built with Three.JS and GSAP, features scroll-triggered animations and a 3D model viewer with theme switches.",
+    "tech": ["threejs", "gsap", "javascript"],
+    "demoLink": "https://jaymiyam.com/nimbus-keyboard-landing-page/",
+    "repoLink": "https://github.com/jaymiyam/nimbus-keyboard-landing-page",
+    "imagePath": "thumbnails/portfolio-thumbnail-nimbus-keyboard-landing-page.png"
+  },
+  {
+    "id": 16,
+    "name": "mythology 2.0",
+    "description": "A landing page for a fictional studio, created with React, TailwindCSS & GSAP. This is an updated from the original vanilla JS project.",
+    "tech": ["reactjs", "tailwindcss", "gsap"],
+    "demoLink": "https://jaymiyam.com/mythology-studio-remastered/",
+    "repoLink": "https://github.com/jaymiyam/mythology-studio-remastered",
+    "imagePath": "thumbnails/portfolio-thumbnail-mythology-studio-remastered.png"
+  },
+  {
     "id": 15,
     "name": "slate",
     "description": "A movie discovery web app powered by TMDB api. Features movie lists and search functionality. Saves favourites in local storage for a backend-free experience. Hosted on Netlify.",
@@ -7,15 +25,6 @@
     "demoLink": "https://slate-movie-app-jaymi.netlify.app/",
     "repoLink": "https://github.com/jaymiyam/slate-movie-app",
     "imagePath": "thumbnails/portfolio-thumbnail-SlateMovieApp.png"
-  },
-  {
-    "id": 11,
-    "name": "watchy",
-    "description": "A Trello-style board for organising movies & shows. Features monthly & weekly view, data filtering & dark mode toggle. Saves data in local storage for a backend-free experience. Hosted on Netlify.",
-    "tech": ["vuejs", "tailwindcss", "typescript"],
-    "demoLink": "https://watchy-app-jaymi.netlify.app/",
-    "repoLink": "https://github.com/jaymiyam/watchy-movie-and-show-tracking-board",
-    "imagePath": "thumbnails/portfolio-thumbnail-Watchy-new.png"
   },
   {
     "id": 12,
@@ -26,6 +35,16 @@
     "repoLink": "https://github.com/jaymiyam/weather-dashboard",
     "imagePath": "thumbnails/portfolio-thumbnail-WeatherDashboard-new.png"
   },
+  {
+    "id": 11,
+    "name": "watchy",
+    "description": "A Trello-style board for organising movies & shows. Features monthly & weekly view, data filtering & dark mode toggle. Saves data in local storage for a backend-free experience. Hosted on Netlify.",
+    "tech": ["vuejs", "tailwindcss", "typescript"],
+    "demoLink": "https://watchy-app-jaymi.netlify.app/",
+    "repoLink": "https://github.com/jaymiyam/watchy-movie-and-show-tracking-board",
+    "imagePath": "thumbnails/portfolio-thumbnail-Watchy-new.png"
+  },
+
   {
     "id": 14,
     "name": "frontend mentor collection",
@@ -43,14 +62,5 @@
     "demoLink": "https://jaymiyam.github.io/mythology-studio-landing-page/",
     "repoLink": "https://github.com/jaymiyam/mythology-studio-landing-page",
     "imagePath": "thumbnails/portfolio-thumbnail-MythologyStudio-new.png"
-  },
-  {
-    "id": 16,
-    "name": "mythology 2.0",
-    "description": "A landing page for a fictional studio, created with React, TailwindCSS & GSAP. This is an updated from the original vanilla JS project.",
-    "tech": ["reactjs", "tailwindcss", "gsap"],
-    "demoLink": "https://jaymiyam.com/mythology-studio-remastered/",
-    "repoLink": "https://github.com/jaymiyam/mythology-studio-remastered",
-    "imagePath": "thumbnails/portfolio-thumbnail-mythology-studio-remastered.png"
   }
 ]
