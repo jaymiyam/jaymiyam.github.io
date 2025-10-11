@@ -12,18 +12,24 @@
       <h2 class="mb-8 text-3xl font-extrabold">
         <button
           @click="showGraphicsProjects = false"
-          :class="{ underline: !showGraphicsProjects }"
+          :class="{
+            underline: !showGraphicsProjects,
+            'text-orangeGold': !showGraphicsProjects,
+          }"
           class="hover:text-orangeGold cursor-pointer transition hover:-translate-y-0.5"
         >
-          development
+          code projects
         </button>
-        /
+        |
         <button
           @click="showGraphicsProjects = true"
-          :class="{ underline: showGraphicsProjects }"
+          :class="{
+            underline: showGraphicsProjects,
+            'text-orangeGold': showGraphicsProjects,
+          }"
           class="hover:text-orangeGold cursor-pointer transition hover:-translate-y-0.5"
         >
-          design
+          webflow projects
         </button>
       </h2>
       <div v-if="showGraphicsProjects">
