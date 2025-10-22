@@ -19,12 +19,5 @@
     "description": "Fictional website redesign for Cash Reader - a money reading app for blind and visually impaired. Designed with accessibility first in mind. This is a conceptual project with content referenced from the actual website.",
     "imagePath": "thumbnails/portfolio-thumbnail-CashReader.webp",
     "demoLink": "https://cash-reader.webflow.io/"
-  },
-  {
-    "id": 34,
-    "name": "Dice & Beans",
-    "description": "Fully responsive website design for a fictional board game cafe with Wix Studio. Built with CMS and integrated with Wix Table Reservation app. This is a conceptual project.",
-    "imagePath": "thumbnails/portfolio-thumbnail-DiceBeans.webp",
-    "demoLink": "https://jaymiyam.wixstudio.com/diceandbeans"
   }
 ]
