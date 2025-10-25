@@ -45,6 +45,15 @@
     "imagePath": "thumbnails/portfolio-thumbnail-WeatherDashboard-new.png"
   },
   {
+    "id": 11,
+    "name": "watchy",
+    "description": "A Trello-style board for organising movies & shows. Features monthly & weekly view, data filtering & dark mode toggle. Saves data in local storage for a backend-free experience. Hosted on Netlify.",
+    "tech": ["vuejs", "tailwindcss", "typescript"],
+    "demoLink": "https://watchy-app-jaymi.netlify.app/",
+    "repoLink": "https://github.com/jaymiyam/watchy-movie-and-show-tracking-board",
+    "imagePath": "thumbnails/portfolio-thumbnail-Watchy-new.png"
+  },
+  {
     "id": 14,
     "name": "frontend mentor collection",
     "description": "This is a collection page showcasing my work of completing front-end coding challenges from Frontend Mentor.",

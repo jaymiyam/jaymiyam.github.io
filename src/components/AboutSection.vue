@@ -23,8 +23,8 @@
         </p>
         <p class="text-balance">
           currently learning:
-          <span class="text-orangeGold font-bold">Three.JS</span>,
-          <span class="text-orangeGold font-bold">Next.JS</span>
+          <span class="text-orangeGold font-bold">Three.js</span>,
+          <span class="text-orangeGold font-bold">Next.js</span>
         </p>
       </div>
       <div>

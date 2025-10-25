@@ -66,7 +66,6 @@ const tagColors = {
   typescript: "text-vermillion",
   javascript: "text-vermillion",
   threejs: "text-slate-600",
+  nextjs: "text-sky-600",
 };
 </script>
-
-<style lang="scss" scoped></style>
