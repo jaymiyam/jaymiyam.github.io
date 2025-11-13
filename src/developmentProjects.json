@@ -11,8 +11,8 @@
   {
     "id": 18,
     "name": "recipe finder",
-    "description": "A multi-page healthy recipe finder website from Frontend Mentor, built with Next.js and GSAP, features scroll-triggered animations, search & filtering. Data stored locally in JSON format.",
-    "tech": ["nextjs", "gsap", "tailwindcss"],
+    "description": "A full-stack healthy recipe finder website from a Frontend Mentor challenge featuring full CRUD functionalities. Built with Next.js, TailwindCSS and MongoDB, deployed on Netlify.",
+    "tech": ["nextjs", "mongoDB", "next-auth"],
     "demoLink": "https://healthy-recipe-finder-jaymi.netlify.app/",
     "repoLink": "https://github.com/jaymiyam/frontend-mentor-recipe-finder",
     "imagePath": "thumbnails/portfolio-thumbnail-healthy-recipe-finder-min.png"

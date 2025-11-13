@@ -67,5 +67,7 @@ const tagColors = {
   javascript: "text-vermillion",
   threejs: "text-slate-600",
   nextjs: "text-sky-600",
+  mongoDB: "text-lime-600",
+  "next-auth": "text-indigo-600",
 };
 </script>
