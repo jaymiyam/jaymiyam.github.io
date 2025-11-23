@@ -17,6 +17,7 @@
             <TechStackItem icon="skill-icons:html" text="HTML5" />
             <TechStackItem icon="skill-icons:css" text="CSS" />
             <TechStackItem icon="skill-icons:javascript" text="JavaScript" />
+            <TechStackItem icon="skill-icons:typescript" text="TypeScript" />
             <TechStackItem icon="skill-icons:git" text="Git" />
           </ul>
         </div>
@@ -24,6 +25,7 @@
           <h3 class="mb-4">frameworks</h3>
           <ul class="grid grid-flow-row gap-2">
             <TechStackItem icon="material-icon-theme:react" text="React" />
+            <TechStackItem icon="devicon:nextjs" text="Next.js" />
             <TechStackItem icon="devicon:vuejs" text="VueJS" />
             <TechStackItem icon="devicon:tailwindcss" text="TailwindCSS" />
             <TechStackItem icon="logos:greensock-icon" text="GSAP" />

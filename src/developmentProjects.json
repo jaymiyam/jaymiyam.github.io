@@ -1,14 +1,5 @@
 [
   {
-    "id": 17,
-    "name": "nimbus",
-    "description": "A 3D animated fictional landing page for the Nimbus VAPOR75 keyboard, built with Three.JS and GSAP, features scroll-triggered animations and a 3D model viewer with theme switches.",
-    "tech": ["threejs", "gsap", "javascript"],
-    "demoLink": "https://jaymiyam.com/nimbus-keyboard-landing-page/",
-    "repoLink": "https://github.com/jaymiyam/nimbus-keyboard-landing-page",
-    "imagePath": "thumbnails/portfolio-thumbnail-nimbus-keyboard-landing-page.png"
-  },
-  {
     "id": 18,
     "name": "recipe finder",
     "description": "A full-stack healthy recipe finder website from a Frontend Mentor challenge featuring full CRUD functionalities. Built with Next.js, TailwindCSS and MongoDB, deployed on Netlify.",
@@ -17,6 +8,16 @@
     "repoLink": "https://github.com/jaymiyam/frontend-mentor-recipe-finder",
     "imagePath": "thumbnails/portfolio-thumbnail-healthy-recipe-finder-min.png"
   },
+  {
+    "id": 17,
+    "name": "nimbus",
+    "description": "A 3D animated fictional landing page for the Nimbus VAPOR75 keyboard, built with Three.JS and GSAP, features scroll-triggered animations and a 3D model viewer with theme switches.",
+    "tech": ["threejs", "gsap", "javascript"],
+    "demoLink": "https://jaymiyam.com/nimbus-keyboard-landing-page/",
+    "repoLink": "https://github.com/jaymiyam/nimbus-keyboard-landing-page",
+    "imagePath": "thumbnails/portfolio-thumbnail-nimbus-keyboard-landing-page.png"
+  },
+
   {
     "id": 16,
     "name": "mythology 2.0",
@@ -30,7 +31,7 @@
     "id": 15,
     "name": "slate",
     "description": "A movie discovery web app powered by TMDB api. Features movie lists and search functionality. Saves favourites in local storage for a backend-free experience. Hosted on Netlify.",
-    "tech": ["reactjs", "tailwindcss", "javascript"],
+    "tech": ["reactjs", "tailwindcss", "typescript"],
     "demoLink": "https://slate-movie-app-jaymi.netlify.app/",
     "repoLink": "https://github.com/jaymiyam/slate-movie-app",
     "imagePath": "thumbnails/portfolio-thumbnail-SlateMovieApp.png"
