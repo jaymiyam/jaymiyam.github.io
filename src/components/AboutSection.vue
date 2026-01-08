@@ -15,7 +15,7 @@
         <h1
           class="mb-4 text-4xl font-extrabold tracking-tight text-balance sm:mb-8 md:text-5xl"
         >
-          Hi!I’m Jaymi, a designer & developer.
+          Hi!I’m Jaymi, a creative developer.
         </h1>
         <p class="mb-8 text-balance">
           I design and code. This website is a curated collection of my
@@ -23,8 +23,7 @@
         </p>
         <p class="text-balance">
           currently learning:
-          <span class="text-orangeGold font-bold">TypeScript</span>,
-          <span class="text-orangeGold font-bold">Next.js</span>
+          <span class="text-orangeGold font-bold">PostgreSQL</span>
         </p>
       </div>
       <div>

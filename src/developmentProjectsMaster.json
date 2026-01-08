@@ -70,5 +70,14 @@
     "demoLink": "https://jaymiyam.github.io/mythology-studio-landing-page/",
     "repoLink": "https://github.com/jaymiyam/mythology-studio-landing-page",
     "imagePath": "thumbnails/portfolio-thumbnail-MythologyStudio-new.png"
+  },
+  {
+    "id": 19,
+    "name": "bodybrief",
+    "description": "A dashboard-style health metrics calculator designed to help users understand common fitness-related numbers.",
+    "tech": ["reactjs", "tailwindcss", "typescript"],
+    "demoLink": "https://jaymiyam.com/bodybrief-dashboard/",
+    "repoLink": "https://github.com/jaymiyam/bodybrief-dashboard",
+    "imagePath": "thumbnails/portfolio-thumbnail-bodybrief-dashboard.webp"
   }
 ]
