@@ -79,5 +79,14 @@
     "demoLink": "https://jaymiyam.com/bodybrief-dashboard/",
     "repoLink": "https://github.com/jaymiyam/bodybrief-dashboard",
     "imagePath": "thumbnails/portfolio-thumbnail-bodybrief-dashboard.webp"
+  },
+  {
+    "id": 20,
+    "name": "cardboard box generator",
+    "description": "A tool for generating customized cardboard box 3D models and export as image for design or other purposes.",
+    "tech": ["threejs", "javascript"],
+    "demoLink": "https://jaymiyam.com/cardboard-box-generator/",
+    "repoLink": "https://github.com/jaymiyam/cardboard-box-generator",
+    "imagePath": "thumbnails/portfolio-thumbnail-cardboard-box-generator.webp"
   }
 ]

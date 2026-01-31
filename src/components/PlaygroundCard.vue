@@ -1,6 +1,6 @@
 <template>
   <div
-    class="mb-20 flex flex-col gap-4 opacity-90 transition duration-300 hover:-translate-y-1.5 hover:opacity-100"
+    class="mb-8 flex flex-col gap-4 opacity-90 transition duration-300 hover:-translate-y-1.5 hover:opacity-100"
   >
     <div class="overflow-hidden rounded-md">
       <img

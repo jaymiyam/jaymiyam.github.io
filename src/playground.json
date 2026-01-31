@@ -14,5 +14,13 @@
     "demoLink": "https://jaymiyam.com/crack-the-code-game/",
     "repoLink": "https://github.com/jaymiyam/crack-the-code-game",
     "imagePath": "thumbnails/portfolio-thumbnail-crackTheCodeGame.png"
+  },
+  {
+    "id": 14,
+    "name": "frontend mentor collection",
+    "description": "This is a collection page showcasing my work of completing front-end coding challenges from Frontend Mentor.",
+    "demoLink": "https://jaymiyam.com/frontend-mentor-collection/",
+    "repoLink": "https://github.com/jaymiyam/frontend-mentor-collection/",
+    "imagePath": "thumbnails/portfolio-thumbnail-frontendMentorCollection.png"
   }
 ]

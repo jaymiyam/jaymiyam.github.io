@@ -28,6 +28,7 @@
             <TechStackItem icon="devicon:nextjs" text="Next.js" />
             <TechStackItem icon="devicon:vuejs" text="VueJS" />
             <TechStackItem icon="devicon:tailwindcss" text="TailwindCSS" />
+            <TechStackItem icon="devicon:threejs" text="Three.js" />
             <TechStackItem icon="logos:greensock-icon" text="GSAP" />
           </ul>
         </div>

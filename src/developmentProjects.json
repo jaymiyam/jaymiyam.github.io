@@ -9,6 +9,15 @@
     "imagePath": "thumbnails/portfolio-thumbnail-healthy-recipe-finder-min.png"
   },
   {
+    "id": 20,
+    "name": "cardboard box generator",
+    "description": "A tool for generating customized cardboard box 3D models and export as image for design or other purposes.",
+    "tech": ["threejs", "javascript"],
+    "demoLink": "https://jaymiyam.com/cardboard-box-generator/",
+    "repoLink": "https://github.com/jaymiyam/cardboard-box-generator",
+    "imagePath": "thumbnails/portfolio-thumbnail-cardboard-box-generator.webp"
+  },
+  {
     "id": 19,
     "name": "bodybrief",
     "description": "A dashboard-style health metrics calculator designed to help users understand common fitness-related numbers.",
@@ -44,14 +53,5 @@
     "demoLink": "https://slate-movie-app-jaymi.netlify.app/",
     "repoLink": "https://github.com/jaymiyam/slate-movie-app",
     "imagePath": "thumbnails/portfolio-thumbnail-SlateMovieApp.png"
-  },
-  {
-    "id": 14,
-    "name": "frontend mentor collection",
-    "description": "This is a collection page showcasing my work of completing front-end coding challenges from Frontend Mentor.",
-    "tech": ["css", "javascript"],
-    "demoLink": "https://jaymiyam.com/frontend-mentor-collection/",
-    "repoLink": "https://github.com/jaymiyam/frontend-mentor-collection/",
-    "imagePath": "thumbnails/portfolio-thumbnail-frontendMentorCollection.png"
   }
 ]
