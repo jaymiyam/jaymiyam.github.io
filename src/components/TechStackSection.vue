@@ -10,26 +10,32 @@
   >
     <section class="pt-20">
       <h2 class="mb-8 text-3xl font-extrabold">techStack</h2>
-      <div class="grid grid-cols-2 gap-x-2 gap-y-8 sm:grid-cols-3 sm:gap-y-0">
+      <div class="grid grid-cols-2 gap-x-2 gap-y-8 sm:grid-cols-4 sm:gap-y-0">
         <div>
-          <h3 class="mb-4">webdev</h3>
+          <h3 class="mb-4">core</h3>
           <ul class="grid grid-flow-row gap-2">
             <TechStackItem icon="skill-icons:html" text="HTML5" />
             <TechStackItem icon="skill-icons:css" text="CSS" />
             <TechStackItem icon="skill-icons:javascript" text="JavaScript" />
             <TechStackItem icon="skill-icons:typescript" text="TypeScript" />
-            <TechStackItem icon="skill-icons:git" text="Git" />
           </ul>
         </div>
         <div>
           <h3 class="mb-4">frameworks</h3>
           <ul class="grid grid-flow-row gap-2">
             <TechStackItem icon="material-icon-theme:react" text="React" />
-            <TechStackItem icon="devicon:nextjs" text="Next.js" />
             <TechStackItem icon="devicon:vuejs" text="VueJS" />
+            <TechStackItem icon="devicon:nextjs" text="Next.js" />
             <TechStackItem icon="devicon:tailwindcss" text="TailwindCSS" />
+          </ul>
+        </div>
+        <div>
+          <h3 class="mb-4">motion & tools</h3>
+          <ul class="grid grid-flow-row gap-2">
             <TechStackItem icon="devicon:threejs" text="Three.js" />
             <TechStackItem icon="logos:greensock-icon" text="GSAP" />
+            <TechStackItem icon="skill-icons:git" text="Git" />
+            <TechStackItem icon="devicon:vitest" text="Vitest" />
           </ul>
         </div>
         <div>

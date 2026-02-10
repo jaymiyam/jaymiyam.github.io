@@ -74,7 +74,7 @@
   {
     "id": 19,
     "name": "bodybrief",
-    "description": "A dashboard-style health metrics calculator designed to help users understand common fitness-related numbers.",
+    "description": "A dashboard-style health metrics calculator designed to help users understand common fitness-related numbers. Calculations tested with Vitest.",
     "tech": ["reactjs", "tailwindcss", "typescript"],
     "demoLink": "https://jaymiyam.com/bodybrief-dashboard/",
     "repoLink": "https://github.com/jaymiyam/bodybrief-dashboard",
