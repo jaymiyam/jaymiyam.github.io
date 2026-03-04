@@ -18,13 +18,13 @@
     "imagePath": "thumbnails/portfolio-thumbnail-cardboard-box-generator.webp"
   },
   {
-    "id": 19,
-    "name": "bodybrief",
-    "description": "A dashboard-style health metrics calculator designed to help users understand common fitness-related numbers. Calculations tested with Vitest.",
-    "tech": ["reactjs", "tailwindcss", "typescript"],
-    "demoLink": "https://jaymiyam.com/bodybrief-dashboard/",
-    "repoLink": "https://github.com/jaymiyam/bodybrief-dashboard",
-    "imagePath": "thumbnails/portfolio-thumbnail-bodybrief-dashboard.webp"
+    "id": 14,
+    "name": "frontend mentor collection",
+    "description": "This is a collection page showcasing my work of completing front-end coding challenges from Frontend Mentor.",
+    "tech": ["css", "javascript"],
+    "demoLink": "https://jaymiyam.com/frontend-mentor-collection/",
+    "repoLink": "https://github.com/jaymiyam/frontend-mentor-collection/",
+    "imagePath": "thumbnails/portfolio-thumbnail-frontendMentorCollection.png"
   },
   {
     "id": 17,
