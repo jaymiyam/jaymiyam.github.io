@@ -9,55 +9,8 @@
     leave-from-class="opacity-100"
   >
     <section class="pt-20">
-      <h2 class="mb-8 text-3xl font-extrabold">
-        <button
-          @click="showGraphicsProjects = false"
-          :class="{
-            underline: !showGraphicsProjects,
-            'text-orangeGold': !showGraphicsProjects,
-          }"
-          class="hover:text-orangeGold cursor-pointer transition hover:-translate-y-0.5"
-        >
-          code projects
-        </button>
-        |
-        <button
-          @click="showGraphicsProjects = true"
-          :class="{
-            underline: showGraphicsProjects,
-            'text-orangeGold': showGraphicsProjects,
-          }"
-          class="hover:text-orangeGold cursor-pointer transition hover:-translate-y-0.5"
-        >
-          webflow projects
-        </button>
-      </h2>
-      <div v-if="showGraphicsProjects">
-        <div class="grid gap-8 sm:grid-cols-2 sm:gap-12">
-          <!-- <GraphicsProjectCard
-            v-for="project in GraphicsProjects"
-            :key="project.id"
-            :project="project"
-            @click="openModal(project)"
-          /> -->
-          <WebflowProjectCard
-            v-for="project in WebflowProjects"
-            :key="project.id"
-            :project="project"
-          />
-        </div>
-        <p class="mb-8">
-          Please check out my
-          <a
-            class="hover:text-orangeGold font-semibold underline transition"
-            href="https://www.behance.net/jaymiyam"
-            target="_blank"
-            >Behance Portfolio</a
-          >
-          for more graphics work!
-        </p>
-      </div>
-      <div v-else>
+      <h2 class="mb-8 text-3xl font-extrabold">projects</h2>
+      <div>
         <ProjectCard
           v-for="project in DevProjects"
           :key="project.id"

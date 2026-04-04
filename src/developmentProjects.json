@@ -17,15 +17,7 @@
     "repoLink": "https://github.com/jaymiyam/cardboard-box-generator",
     "imagePath": "thumbnails/portfolio-thumbnail-cardboard-box-generator.webp"
   },
-  {
-    "id": 14,
-    "name": "frontend mentor collection",
-    "description": "This is a collection page showcasing my work of completing front-end coding challenges from Frontend Mentor.",
-    "tech": ["css", "javascript"],
-    "demoLink": "https://jaymiyam.com/frontend-mentor-collection/",
-    "repoLink": "https://github.com/jaymiyam/frontend-mentor-collection/",
-    "imagePath": "thumbnails/portfolio-thumbnail-frontendMentorCollection.png"
-  },
+
   {
     "id": 17,
     "name": "nimbus",
@@ -44,6 +36,15 @@
     "demoLink": "https://jaymiyam.com/mythology-studio-remastered/",
     "repoLink": "https://github.com/jaymiyam/mythology-studio-remastered",
     "imagePath": "thumbnails/portfolio-thumbnail-mythology-studio-remastered.png"
+  },
+  {
+    "id": 14,
+    "name": "frontend mentor collection",
+    "description": "This is a collection page showcasing my work of completing front-end coding challenges from Frontend Mentor.",
+    "tech": ["css", "javascript"],
+    "demoLink": "https://jaymiyam.com/frontend-mentor-collection/",
+    "repoLink": "https://github.com/jaymiyam/frontend-mentor-collection/",
+    "imagePath": "thumbnails/portfolio-thumbnail-frontendMentorCollection.png"
   },
   {
     "id": 15,
