@@ -1,14 +1,5 @@
 [
   {
-    "id": 18,
-    "name": "recipe finder",
-    "description": "A full-stack healthy recipe finder website from a Frontend Mentor challenge featuring full CRUD functionalities. Built with Next.js, TailwindCSS and MongoDB, deployed on Netlify.",
-    "tech": ["nextjs", "mongoDB", "next-auth"],
-    "demoLink": "https://healthy-recipe-finder-jaymi.netlify.app/",
-    "repoLink": "https://github.com/jaymiyam/frontend-mentor-recipe-finder",
-    "imagePath": "thumbnails/portfolio-thumbnail-healthy-recipe-finder-min.png"
-  },
-  {
     "id": 20,
     "name": "cardboard box generator",
     "description": "A tool for generating customized cardboard box 3D models and export as image for design or other purposes.",
@@ -17,7 +8,15 @@
     "repoLink": "https://github.com/jaymiyam/cardboard-box-generator",
     "imagePath": "thumbnails/portfolio-thumbnail-cardboard-box-generator.webp"
   },
-
+  {
+    "id": 18,
+    "name": "recipe finder",
+    "description": "A full-stack healthy recipe finder website from a Frontend Mentor challenge featuring full CRUD functionalities. Built with Next.js, TailwindCSS and MongoDB, deployed on Netlify.",
+    "tech": ["nextjs", "mongoDB", "next-auth"],
+    "demoLink": "https://healthy-recipe-finder-jaymi.netlify.app/",
+    "repoLink": "https://github.com/jaymiyam/frontend-mentor-recipe-finder",
+    "imagePath": "thumbnails/portfolio-thumbnail-healthy-recipe-finder-min.png"
+  },
   {
     "id": 17,
     "name": "nimbus",
