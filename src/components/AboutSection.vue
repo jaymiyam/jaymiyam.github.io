@@ -23,7 +23,7 @@
         </p>
         <p class="text-balance">
           currently learning:
-          <span class="text-orangeGold font-bold">D3.js</span>
+          <span class="text-orangeGold font-bold">graphQL</span>
         </p>
       </div>
       <div>

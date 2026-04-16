@@ -25,6 +25,7 @@
           <ul class="grid grid-flow-row gap-2">
             <TechStackItem icon="material-icon-theme:react" text="React" />
             <TechStackItem icon="devicon:vuejs" text="VueJS" />
+            <TechStackItem icon="devicon:express" text="Express.js" />
             <TechStackItem icon="devicon:nextjs" text="Next.js" />
             <TechStackItem icon="devicon:tailwindcss" text="TailwindCSS" />
           </ul>
