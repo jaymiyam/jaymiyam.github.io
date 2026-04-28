@@ -1,5 +1,14 @@
 [
   {
+    "id": 21,
+    "name": "symmetry feedback hub",
+    "description": "A professional-grade feedback management system built with PERN stack, featuring Role-Based Access Control, a robust voting system, commenting functionality and administrative controls",
+    "tech": ["reactjs", "typescript", "postgreSQL", "expressjs"],
+    "demoLink": "https://symmetry-feedback-hub.vercel.app/",
+    "repoLink": "https://github.com/jaymiyam/symmetry-feedback-hub",
+    "imagePath": "thumbnails/portfolio-thumbnail-feedback-hub.webp"
+  },
+  {
     "id": 18,
     "name": "recipe finder",
     "description": "A full-stack healthy recipe finder website from a Frontend Mentor challenge featuring full CRUD functionalities. Built with Next.js, TailwindCSS and MongoDB, deployed on Netlify.",
@@ -7,15 +16,6 @@
     "demoLink": "https://healthy-recipe-finder-jaymi.netlify.app/",
     "repoLink": "https://github.com/jaymiyam/frontend-mentor-recipe-finder",
     "imagePath": "thumbnails/portfolio-thumbnail-healthy-recipe-finder-min.png"
-  },
-  {
-    "id": 11,
-    "name": "watchy",
-    "description": "A Trello-style board for organising movies & shows. Features monthly & weekly view, data filtering & dark mode toggle. Saves data in local storage for a backend-free experience. Hosted on Netlify.",
-    "tech": ["vuejs", "tailwindcss", "typescript"],
-    "demoLink": "https://watchy-app-jaymi.netlify.app/",
-    "repoLink": "https://github.com/jaymiyam/watchy-movie-and-show-tracking-board",
-    "imagePath": "thumbnails/portfolio-thumbnail-Watchy-new.png"
   },
   {
     "id": 12,
@@ -44,14 +44,5 @@
     "demoLink": "https://jaymiyam.com/mythology-studio-remastered/",
     "repoLink": "https://github.com/jaymiyam/mythology-studio-remastered",
     "imagePath": "thumbnails/portfolio-thumbnail-mythology-studio-remastered.png"
-  },
-  {
-    "id": 15,
-    "name": "slate",
-    "description": "A movie discovery web app powered by TMDB api. Features movie lists and search functionality. Saves favourites in local storage for a backend-free experience. Hosted on Netlify.",
-    "tech": ["reactjs", "tailwindcss", "typescript"],
-    "demoLink": "https://slate-movie-app-jaymi.netlify.app/",
-    "repoLink": "https://github.com/jaymiyam/slate-movie-app",
-    "imagePath": "thumbnails/portfolio-thumbnail-SlateMovieApp.png"
   }
 ]
