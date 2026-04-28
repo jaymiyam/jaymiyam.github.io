@@ -93,7 +93,7 @@
     "id": 21,
     "name": "symmetry feedback hub",
     "description": "A professional-grade feedback management system built with PERN stack, featuring Role-Based Access Control, a robust voting system, commenting functionality and administrative controls",
-    "tech": ["reactjs", "typescript", "postgreSQL", "expressjs"],
+    "tech": ["reactjs", "postgreSQL", "expressjs"],
     "demoLink": "https://symmetry-feedback-hub.vercel.app/",
     "repoLink": "https://github.com/jaymiyam/symmetry-feedback-hub",
     "imagePath": "thumbnails/portfolio-thumbnail-feedback-hub.webp"
