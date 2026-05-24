@@ -14,5 +14,13 @@
     "demoLink": "https://jaymiyam.com/crack-the-code-game/",
     "repoLink": "https://github.com/jaymiyam/crack-the-code-game",
     "imagePath": "thumbnails/portfolio-thumbnail-crackTheCodeGame.png"
+  },
+  {
+    "id": 22,
+    "name": "text adventure game",
+    "description": "A lightweight, interactive text-based adventure game built entirely using vanilla JavaScript, HTML, and CSS.",
+    "demoLink": "https://jaymiyam.com/text-adventure-game-practice/",
+    "repoLink": "https://github.com/jaymiyam/text-adventure-game-practice",
+    "imagePath": "thumbnails/portfolio-thumbnail-textAdventureGame.webp"
   }
 ]
